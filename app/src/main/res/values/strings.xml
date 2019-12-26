@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MP3</string>
+
+    <string name="top_song">Top Songs</string>
+
+    <string name="dtjson">http://yopi.marmud.com/mexmp3.json</string>
+    <string name="api">https://api-v2.soundcloud.com</string>
+    <string name="stream">/stream?client_id=</string>
+
+    <string name="share_msg">Hi,I would like to share Application which is used to download mp3, please install it from Google Play Store Free Here \n https://play.google.com/store/apps/details?id=</string>
+
+</resources>
